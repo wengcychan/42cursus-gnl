@@ -7,7 +7,7 @@
 
 Get Next Line is a project designed to introduce the concept of static variables.
 
-For more projects related to 42cursus, please visit the hive-42cursus repository.
+For more projects related to 42cursus, please visit the [hive-42cursus](https://github.com/wengcychan/hive-42cursus.git) repository.
 
 ## Introduction
 
